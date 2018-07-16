@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 15 Jul 2018 15:03:17 at http://mattfarley.ca/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://mattfarley.ca/ -O1 "C:\Users\user\Documents\developer web" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:05:50	Warning: 	Link mattfarley.ca/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+15:06:01	Warning: 	Retry after error -4 (Incorrect length (646174 Bytes, 716174 expected)) at link mattfarley.ca/img/project-userforge.png (from mattfarley.ca/)
+15:06:01	Warning: 	Retry after error -4 (Incorrect length (714053 Bytes, 752491 expected)) at link mattfarley.ca/img/project-wedlerengineering.png (from mattfarley.ca/)
+15:06:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): mattfarley.ca/img/project-userforge.png
+15:06:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): mattfarley.ca/img/project-wedlerengineering.png
+15:06:47	Warning: 	Retry after error -4 (Incorrect length (1273751 Bytes, 1341069 expected)) at link mattfarley.ca/img/project-southwestforestproducts.png (from mattfarley.ca/)
+15:06:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): mattfarley.ca/img/project-southwestforestproducts.png
+15:07:39	Warning: 	Retry after error -4 (Incorrect length (648442 Bytes, 716174 expected)) at link mattfarley.ca/img/project-userforge.png (from mattfarley.ca/)
+15:07:39	Warning: 	Retry after error -4 (Incorrect length (709674 Bytes, 752491 expected)) at link mattfarley.ca/img/project-wedlerengineering.png (from mattfarley.ca/)
+15:07:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): mattfarley.ca/img/project-userforge.png
+15:07:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): mattfarley.ca/img/project-wedlerengineering.png
+15:08:40	Warning: 	Retry after error -4 (Incorrect length (846032 Bytes, 1341069 expected)) at link mattfarley.ca/img/project-southwestforestproducts.png (from mattfarley.ca/)
+15:08:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): mattfarley.ca/img/project-southwestforestproducts.png
+15:08:44	Error: 	"Incorrect length (500580 Bytes, 716174 expected)" (-4) after 2 retries at link mattfarley.ca/img/project-userforge.png (from mattfarley.ca/)
+15:08:44	Error: 	"Incorrect length (495160 Bytes, 752491 expected)" (-4) after 2 retries at link mattfarley.ca/img/project-wedlerengineering.png (from mattfarley.ca/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 19 seconds : 66 links scanned, 56 files written (4197929 bytes overall) [9318447 bytes received at 24586 bytes/sec], 1267512 bytes transferred using HTTP compression in 30 files, ratio 41%, 3.1 requests per connection
+(2 errors, 13 warnings, 0 messages)

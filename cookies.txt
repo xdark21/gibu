@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.bulma.io	TRUE	/	FALSE	1999999999	__cfduid	d3cc892ff4f2b3a8dbbfb6c79fabc9a6d1531659935
+.mattfarley.ca	TRUE	/	FALSE	1999999999	__cfduid	d333455c873852b34ce627ca8e2cc09b21531660120
+
